@@ -10,7 +10,7 @@ namespace isrConsole
     {
         static void Main(string[] args)
         {
-            Console.Out.Write("First application");
+            Console.Out.Write("First application is now getting modified");
             Console.ReadLine();
             Console.ReadLine();
         }
